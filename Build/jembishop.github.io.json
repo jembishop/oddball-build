@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "A Ball And A Tool",
+"dataUrl": "jembishop.github.io.data.unityweb",
+"asmCodeUrl": "jembishop.github.io.asm.code.unityweb",
+"asmMemoryUrl": "jembishop.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "jembishop.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
